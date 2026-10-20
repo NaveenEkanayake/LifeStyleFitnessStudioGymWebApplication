@@ -88,7 +88,7 @@ npm run dev
 ## Authors
 
 * **Isuru Bandara** - *SE and CS undergraduate* - [Isuru Bandara](https://github.com/Isuru936/) - *QR Code Attendance System, Diet Plan System*
-* **Vinuka Wijerathna** - *SE and CS undergraduate* - [Vinuka Wijerathna](https://github.com/Vinuka-Wijerathne) - *Workout Plan Allocation System*
+* **Vinuka Wijerathna** - *SE and CS undergraduate* - [Naveen Ekanayake](https://github.com/NaveenEkanayake) - *Workout Plan Allocation System*
 * **Mohamed Shafry** - *SE and CS undergraduate* - [Mohamed Shafry](https://github.com/MohamedShafry) - *User Management System*
 * **Umaya Thilakarathne** - *SE and CS undergraduate* - [Umaya Thilakarathne](https://github.com/umaya2002) - *Inventory Management System, Notification System*
 * **Sewmini Swarnasinghe** - *SE and CS undergraduate* - [Sewmini Swarnasinghe](https://github.com/sewmini2003) - *Payment Management System*
